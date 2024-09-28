@@ -4,7 +4,7 @@ import Logo from '../assets/logo.svg'
 
 function nav() {
   return (
-    <nav><img src={Logo} alt="" /></nav>
+    <nav>Wafeandy</nav>
   )
 }
 
